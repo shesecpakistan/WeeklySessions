@@ -15,13 +15,16 @@ spyse https://spyse.com/
 waybackurls https://archive.org
 commoncrawl https://commoncrawl.org/
 hackertarget https://hackertarget.com/
+wappanalyzer
+builtwith
 
 ###Active Recon Tools
 Fuzzing?! - ffuf 
 Sublister - subdomains
 Knockpy - subdomains
-wafwoof - gather tech
-linkfinder - JS files
+wafwoof - gather waf data
+subjs - gather js files
+linkfinder - extracting endpoints from JS files
 Aquatone - Screenshots
 dirb - content discovery
 nmap - port scanning
