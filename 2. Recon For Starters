@@ -1,0 +1,37 @@
+
+###Recon
+What is Recon and why is it important?
+Importance of performing recon and gather assets.
+
+###Types of Recon.
+Active 
+Passive
+
+###Passive Recon Sites
+censys https://censys.io/
+shodan https://shodan.io
+securitytrails https://securitytrails.com/
+spyse https://spyse.com/
+waybackurls https://archive.org
+commoncrawl https://commoncrawl.org/
+hackertarget https://hackertarget.com/
+
+###Active Recon Tools
+Fuzzing?! - ffuf 
+Sublister - subdomains
+Knockpy - subdomains
+wafwoof - gather tech
+linkfinder - JS files
+Aquatone - Screenshots
+dirb - content discovery
+nmap - port scanning
+
+###Manual and Automation
+https://github.com/shesecpakistan/subs
+https://github.com/nahamsec/lazyrecon
+
+###Free Cloudshell to use for starters
+https://shell.cloud.google.com
+
+###References.
+https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21
