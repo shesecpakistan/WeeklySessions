@@ -2,3 +2,21 @@
 ###Burpsuite
 
 - Setup & Config
+Using foxyproxy and unused port.
+
+- HTTP Methods
+
+- Trying out different Requests.
+
+- Response manipulation (whiteboard)
+
+- Burp Features.
+Dashboard (Scope, Target Map)
+Content Discovery
+Repeater
+Collaborator
+Intruder
+Spider
+Burp History is a Gold Mine.
+Scanner
+Decoder
